@@ -1,0 +1,588 @@
+mysql> #1
++-----------------------------------------------+
+| title                                         |
++-----------------------------------------------+
+| Accordion Player                              |
+| Brighton Street Scene                         |
+| Pferd und Reiter Springen über ein Hindernis  |
+| Roundhay Garden Scene                         |
+| Traffic Crossing Leeds Bridge                 |
++-----------------------------------------------+
+5 rows in set (0.10 sec)
+
+mysql> #2
++--------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+
+| title                                                                                                                                                  | production_year |
++--------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+
+| 100 Years                                                                                                                                              |            2115 |
+| 5 Nights at Fred's                                                                                                                                     |            2020 |
+| 6000                                                                                                                                                   |            2019 |
+| 72'                                                                                                                                                    |            2019 |
+| A Blue Genie Houdini Merry Christmas Evening                                                                                                           |            2020 |
+| Adam & Eve                                                                                                                                             |            2019 |
+| Ambiancé                                                                                                                                               |            2020 |
+| An Incurable Gift                                                                                                                                      |            2020 |
+| And Clyde                                                                                                                                              |            2020 |
+| ArkhamAsylumFiles: Reunion                                                                                                                             |            2020 |
+| Austin Powers Meets Monty Python Meets the Whole World                                                                                                 |            2022 |
+| Avatar 4                                                                                                                                               |            2019 |
+| Avengers: Infinity War - Part II                                                                                                                       |            2019 |
+| Back to the Saddle 2                                                                                                                                   |            2020 |
+| Bad Boys 4                                                                                                                                             |            2019 |
+| Battle of Evil: The Evil of the Dark                                                                                                                   |            2021 |
+| Berlin                                                                                                                                                 |            2022 |
+| Bifröst into the Aurora                                                                                                                                |            2020 |
+| Blinding Confessions of a Minds Obsession                                                                                                              |            2019 |
+| Borders                                                                                                                                                |            2020 |
+| Boulevard Noir                                                                                                                                         |            2019 |
+| Boyhood 2 Manhood 2 Womanhood 2 Robinhood of Luxlewood from the Brotherhood Hood of Compton-woods Adulthood Could Ever Since My Sisterhoods Woody-Wood |            2020 |
+| Broken Wing                                                                                                                                            |            2019 |
+| Calendar Men                                                                                                                                           |            2020 |
+| Captain Marvel                                                                                                                                         |            2019 |
+| Chupacabra                                                                                                                                             |            2019 |
+| Clowntown                                                                                                                                              |            2019 |
+| Clutch Control                                                                                                                                         |            2019 |
+| Cranium Intel: Magnetism X.3                                                                                                                           |            2020 |
+| Crime and Punishment                                                                                                                                   |            2020 |
+| Criósfera                                                                                                                                              |            2022 |
+| Cross Country                                                                                                                                          |            2020 |
+| Cyborg                                                                                                                                                 |            2020 |
+| Dark Lords                                                                                                                                             |            2019 |
+| David of Sasun                                                                                                                                         |            2019 |
+| Deacon Jim                                                                                                                                             |            2019 |
+| Death Sentence: Fan Film                                                                                                                               |            2020 |
+| Demon's Calling                                                                                                                                        |            2020 |
+| Desertica                                                                                                                                              |            2021 |
+| DiaDione                                                                                                                                               |            2020 |
+| Digital World                                                                                                                                          |            2020 |
+| Dracula                                                                                                                                                |            2019 |
+| Eagle Shadow                                                                                                                                           |            2020 |
+| Edge of Time                                                                                                                                           |            2021 |
+| El día que la vida me ponga de rodillas                                                                                                                |            2019 |
+| El tiempo del ángel negro                                                                                                                              |            2019 |
+| Emoji                                                                                                                                                  |            2019 |
+| Escape from Chicago                                                                                                                                    |            2023 |
+| Fantastic Beasts and Where to Find Them 3                                                                                                              |            2020 |
+| Fastlane Warzone                                                                                                                                       |            2019 |
+| Fear of Life                                                                                                                                           |            2019 |
+| First Continuum                                                                                                                                        |            2020 |
+| First Time                                                                                                                                             |            2020 |
+| Flexx: Redemption                                                                                                                                      |            2020 |
+| Foreign Tongues                                                                                                                                        |            2019 |
+| Foretold: Daughters of Saraqael #3                                                                                                                     |            2019 |
+| Fresh Zulus: The Krown - MCMLXXXII                                                                                                                     |            2020 |
+| Förfallet                                                                                                                                              |            2020 |
+| Gilgamesh: In Search of Immortality                                                                                                                    |            2019 |
+| Gods of the Machine                                                                                                                                    |            2020 |
+| Godzilla vs. Kong                                                                                                                                      |            2020 |
+| Green Lantern Corps                                                                                                                                    |            2020 |
+| Gynaika se fthinoporo                                                                                                                                  |            2020 |
+| Held Captive                                                                                                                                           |            2019 |
+| Hello Kitty                                                                                                                                            |            2019 |
+| Henry Starr                                                                                                                                            |            2019 |
+| Horizontal Flowers                                                                                                                                     |            2019 |
+| I Like the Sound of My Own Voice                                                                                                                       |            2020 |
+| I Love My Dog                                                                                                                                          |            2019 |
+| I See God in My Cat's Face                                                                                                                             |            2020 |
+| In the Shadow of the Moon                                                                                                                              |            2019 |
+| Inhumans                                                                                                                                               |            2019 |
+| Innocence in a Garden of Lies                                                                                                                          |            2019 |
+| Interceptor                                                                                                                                            |            2019 |
+| Irish Song                                                                                                                                             |            2019 |
+| Jackie Roy                                                                                                                                             |            2020 |
+| Justice League Part Two                                                                                                                                |            2019 |
+| Karma 50 Climax                                                                                                                                        |            2021 |
+| Le Fear: Le Prequel                                                                                                                                    |            2019 |
+| Let's Paint the World with Peace                                                                                                                       |            2021 |
+| Lord Hanuman                                                                                                                                           |            2019 |
+| Love Deal                                                                                                                                              |            2019 |
+| Luke                                                                                                                                                   |            2020 |
+| Lume                                                                                                                                                   |            2020 |
+| Marco Polo, a Young Man in Love                                                                                                                        |            2019 |
+| Me and Katrina                                                                                                                                         |            2019 |
+| Mother's Plea to the Silent God                                                                                                                        |            2019 |
+| My Adventures with Murdo Adamsbeck                                                                                                                     |            2019 |
+| My Fault... Forever                                                                                                                                    |            2023 |
+| Neon Genesis Evangelion Angel Adam                                                                                                                     |            2019 |
+| New in Village                                                                                                                                         |            2024 |
+| North River                                                                                                                                            |            2019 |
+| O Evangelho Segundo Jesus Cristo                                                                                                                       |            2019 |
+| Phantom                                                                                                                                                |            2019 |
+| Predator Uprising                                                                                                                                      |            2022 |
+| Ready N' Reloaded                                                                                                                                      |            2022 |
+| Realidad Alterada                                                                                                                                      |            2019 |
+| Red Stone                                                                                                                                              |            2020 |
+| Rock Paper Dead Beginnings                                                                                                                             |            2020 |
+| Saga of Love: Kingdom of Eternity                                                                                                                      |            2020 |
+| Selective Patriotism                                                                                                                                   |            2019 |
+| SG4 Uprising                                                                                                                                           |            2019 |
+| Shadow of Valor                                                                                                                                        |            2020 |
+| Shadows                                                                                                                                                |            2020 |
+| Shadows at Midnight                                                                                                                                    |            2020 |
+| Shazam!                                                                                                                                                |            2019 |
+| Shivers                                                                                                                                                |            2019 |
+| Shockwave II: Revenge of the Evil Queen                                                                                                                |            2019 |
+| Shockwave III: The Final Chapter                                                                                                                       |            2020 |
+| Sion                                                                                                                                                   |            2020 |
+| So Many Galleries                                                                                                                                      |            2019 |
+| Spider in the Web                                                                                                                                      |            2022 |
+| SpongeBob Squarepants 3                                                                                                                                |            2019 |
+| Star Wars: Episode IX                                                                                                                                  |            2019 |
+| Storms of Time                                                                                                                                         |            2021 |
+| StreetDance 4                                                                                                                                          |            2025 |
+| Swiadek                                                                                                                                                |            2019 |
+| Sword and Scythe II: Eyewitness                                                                                                                        |            2019 |
+| Sócrates                                                                                                                                               |            2019 |
+| The 13th                                                                                                                                               |            2019 |
+| The Angered Gamer Movie                                                                                                                                |            2019 |
+| The Berserker                                                                                                                                          |            2020 |
+| The Billion Brick Race                                                                                                                                 |            2019 |
+| The Boy Who Drew Monsters                                                                                                                              |            2019 |
+| The Chronicle of Alice & Peter                                                                                                                         |            2020 |
+| The Circle Jerk                                                                                                                                        |            2019 |
+| The Coffee Table                                                                                                                                       |            2019 |
+| The Cretaceous Period                                                                                                                                  |            2022 |
+| The Crisis                                                                                                                                             |            2019 |
+| The Deep Web                                                                                                                                           |            2019 |
+| The Devil's Sea                                                                                                                                        |            2020 |
+| The Dragon's Triangle                                                                                                                                  |            2019 |
+| The Dreamer                                                                                                                                            |            2020 |
+| The Embodiment                                                                                                                                         |            2019 |
+| The Equinox                                                                                                                                            |            2021 |
+| The Hamster                                                                                                                                            |            2021 |
+| The Hunt Is Over                                                                                                                                       |            2020 |
+| The Incredibles 2                                                                                                                                      |            2019 |
+| The Kingdom Rules                                                                                                                                      |            2019 |
+| The Last Day                                                                                                                                           |            2019 |
+| The Last Troubadour                                                                                                                                    |            2020 |
+| The Messenger Karakorum                                                                                                                                |            2019 |
+| The Minister                                                                                                                                           |            2020 |
+| The Never Knights and Me: Girl Managing a Boy Band                                                                                                     |            2019 |
+| The Painted Bird                                                                                                                                       |            2019 |
+| The Passenger                                                                                                                                          |            2020 |
+| The Phoenix                                                                                                                                            |            2020 |
+| The Rise Eleanor of Aquitaine                                                                                                                          |            2019 |
+| The Ritwik Ghatak Experience                                                                                                                           |            2019 |
+| The Shadow of Luvania                                                                                                                                  |            2020 |
+| The Silver Unknown                                                                                                                                     |            2019 |
+| The Sky People                                                                                                                                         |            2020 |
+| The Tree of Death                                                                                                                                      |            2022 |
+| The Wanted of Silvertown                                                                                                                               |            2022 |
+| Three Bad Men                                                                                                                                          |            2019 |
+| Throat                                                                                                                                                 |            2019 |
+| Tiger & Bunny                                                                                                                                          |            2019 |
+| Tree Home                                                                                                                                              |            2019 |
+| Tree Top                                                                                                                                               |            2020 |
+| Trinity                                                                                                                                                |            2021 |
+| Unbalanced                                                                                                                                             |            2019 |
+| Unity, Guardians Versus Corruption: Rise of the Corruption                                                                                             |            2020 |
+| Unity, Guardians Versus Corruption: War of Ages                                                                                                        |            2021 |
+| Untitled Disney Animation Project                                                                                                                      |            2020 |
+| Untitled Disney Live-Action Fairy Tale                                                                                                                 |            2019 |
+| Untitled Disney Live-Action Fairy Tale                                                                                                                 |            2019 |
+| Untitled Disneytoons Studios Project                                                                                                                   |            2019 |
+| Untitled Ferdinand Magellan Project                                                                                                                    |            2019 |
+| Untitled Illumination Project                                                                                                                          |            2019 |
+| Untitled Illumination Project                                                                                                                          |            2020 |
+| Untitled Marvel Project                                                                                                                                |            2020 |
+| Untitled Marvel Project                                                                                                                                |            2020 |
+| Untitled Marvel Project                                                                                                                                |            2020 |
+| Untitled Missing Town Project                                                                                                                          |            2019 |
+| Untitled Pixar Animation Project                                                                                                                       |            2020 |
+| Untitled Pixar Animation Project                                                                                                                       |            2020 |
+| Untitled Ship Project                                                                                                                                  |            2019 |
+| Wastoid                                                                                                                                                |            2019 |
+| We All Fall Down                                                                                                                                       |            2019 |
+| Where the Streets Had No Name                                                                                                                          |            2019 |
+| Whip                                                                                                                                                   |            2022 |
+| Why I Am Color Blind                                                                                                                                   |            2020 |
+| Why I Am Pro-Life                                                                                                                                      |            2019 |
+| Wife/Hat                                                                                                                                               |            2019 |
+| Wild Runs                                                                                                                                              |            2024 |
+| Wuthering Frights: Skullenia 3                                                                                                                         |            2019 |
+| Z is for Zeusophobia                                                                                                                                   |            2019 |
+| Z.O.O.                                                                                                                                                 |            2019 |
+| Zulu vs. Dunge                                                                                                                                         |            2019 |
++--------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------+
+189 rows in set (0.10 sec)
+
+mysql>  #3
++---------------------------------------+-----------------+
+| title                                 | production_year |
++---------------------------------------+-----------------+
+| $10 Raise                             |            1935 |
+| $1000 a Touchdown                     |            1939 |
+| 'Den vide verden's billedbog nr. 1    |            1938 |
+| 'G' Men                               |            1935 |
+| 'Hit-and-Run Driver'                  |            1935 |
+| 'Il giorno dell'ala' a Roma           |            1930 |
+| 'n Dogter van die Veld                |            1933 |
+| 'Neath the Arizona Skies              |            1934 |
+| 'Neath the Bababa Tree                |            1931 |
+| 'Oppin                                |            1930 |
+| 'Roah-Roah!' Der Schrei der Sehnsucht |            1930 |
+| 't was een april                      |            1936 |
+| 'The Bully'                           |            1932 |
+| 'Tis Spring                           |            1933 |
+| 'Tis the Ball                         |            1934 |
+| -But the Flesh Is Weak                |            1932 |
+| ...Duren ty, duren!                   |            1931 |
+| ...heute abend bei mir                |            1934 |
+| ...nur ein Komödiant                  |            1935 |
+| ...One Third of a Nation...           |            1939 |
+| ...und das ist die Hauptsache!?       |            1931 |
+| ...und es leuchtet die Pußta          |            1933 |
+| ...und wer küßt mich?                 |            1933 |
+| ...Y los sueños pasan                 |            1939 |
+| ...Y mañana serán hombres             |            1939 |
++---------------------------------------+-----------------+
+25 rows in set (0.00 sec)
+
+mysql>  #4
++---------------------------------+
+| name                            |
++---------------------------------+
+| "Steff", Stefanie Oxmann Mcgaha |
+| & Ashour, Lucienne              |
+| &Aacutelvarez, Michelle         |
+| 'Gaby' Goff, Mary               |
+| 'J.T.' Thompson, Julie          |
+| 'La Mueque'                     |
+| 'Noble Julz'Hamilton, Ulia      |
+| 'Rosalie' Sadlik, Peggy         |
+| 's Gravemade, Nienke            |
+| 't Hart, Josine                 |
+| 't Seyen, Hilda                 |
+| 'The Queen' Williams, Toni      |
+| 'Tush' Harris, Tymisha          |
+| , Manjula Rai                   |
+| -, Anna                         |
+| --, Mónica                      |
+| -fox, Katherine Bennet          |
+| -James, Bethan Williams         |
+| ., Gwendolyn Cheatham           |
+| 103, Martha                     |
+| 11:11, Nicole                   |
+| 12 Elite Girls, Die             |
+| 1934 Goldwyn Girls, The         |
+| 1988 Montclair Squad            |
+| 20 Wienerinnen, Die             |
++---------------------------------+
+25 rows in set (0.17 sec)
+
+mysql>  #5
++--------------------------------------+-----------------+
+| title                                | production_year |
++--------------------------------------+-----------------+
+| 007 - Hue Bond: Goldenass            |            2009 |
+| 007 - Hue Bond: Otro Día Para Gemir  |            2009 |
+| 007 - Hue Bond: Un Polvo No Basta    |            2013 |
+| 007 - Hue Bond: Vive y Deja Chifar   |            2011 |
+| 007 1/2 no Carnaval                  |            1966 |
+| 007 contre-attaque                   |            2011 |
+| 007 in Rio                           |            1979 |
+| 007 Stage Dedication                 |            1977 |
+| 007 Vesper                           |            2016 |
+| 007-Eleven                           |            2013 |
++--------------------------------------+-----------------+
+10 rows in set (0.11 sec)
+
+mysql>  #6
++----------+
+| count(*) |
++----------+
+|   887049 |
++----------+
+1 row in set (0.00 sec)
+
+mysql>  #7
++----------+
+| count(*) |
++----------+
+|    14143 |
++----------+
+1 row in set (0.11 sec)
+
+mysql>  #8
++---------------------------------+--------+
+| name                            | gender |
++---------------------------------+--------+
+| Mikkelsen, Aase                 | m      |
+| Mikkelsen, Anders               | m      |
+| Mikkelsen, Bill                 | m      |
+| Mikkelsen, Brian                | m      |
+| Mikkelsen, Christian Fredrik    | m      |
+| Mikkelsen, Claes Rose           | m      |
+| Mikkelsen, Claus List           | m      |
+| Mikkelsen, Emil                 | m      |
+| Mikkelsen, Fabian Bøgild        | m      |
+| Mikkelsen, Geert                | m      |
+| Mikkelsen, Gunnar               | m      |
+| Mikkelsen, Henning              | m      |
+| Mikkelsen, Jakob                | m      |
+| Mikkelsen, Janus                | m      |
+| Mikkelsen, Jens                 | m      |
+| Mikkelsen, Jens Karl Kristian   | m      |
+| Mikkelsen, John                 | m      |
+| Mikkelsen, Justine              | m      |
+| Mikkelsen, Kent                 | m      |
+| Mikkelsen, Lars                 | m      |
+| Mikkelsen, Lars                 | m      |
+| Mikkelsen, Lars Randrup         | m      |
+| Mikkelsen, Leif                 | m      |
+| Mikkelsen, Mads                 | m      |
+| Mikkelsen, Mikkel               | m      |
+| Mikkelsen, Nicholas             | m      |
+| Mikkelsen, Olan                 | m      |
+| Mikkelsen, Otto Dahlgaard       | m      |
+| Mikkelsen, Steen Jarle          | m      |
+| Mikkelsen, Svein                | m      |
+| Mikkelsen, Søren                | m      |
+| Mikkelsen, Terje                | m      |
+| Mikkelsen, Thomas V.            | m      |
+| Mikkelsen, Thorleif             | m      |
+| Mikkelsen, Ane Hauge Hyllen     | f      |
+| Mikkelsen, Ane Haugen           | f      |
+| Mikkelsen, Britta               | f      |
+| Mikkelsen, Britta               | f      |
+| Mikkelsen, Britta               | f      |
+| Mikkelsen, Dorthe               | f      |
+| Mikkelsen, Frida                | f      |
+| Mikkelsen, Halgerð Midjord      | f      |
+| Mikkelsen, Hedith               | f      |
+| Mikkelsen, Heidi Ødegaard       | f      |
+| Mikkelsen, Inga Maria           | f      |
+| Mikkelsen, Kirstine Rosenkrands | f      |
+| Mikkelsen, Laura                | f      |
+| Mikkelsen, Lillian              | f      |
+| Mikkelsen, Malene Skjold        | f      |
+| Mikkelsen, Mariell Flaterås     | f      |
+| Mikkelsen, Monika               | f      |
+| Mikkelsen, Pernille             | f      |
+| Mikkelsen, Sofia Nolsøe         | f      |
++---------------------------------+--------+
+53 rows in set (0.27 sec)
+
+mysql>  #9
++-----------------+
+| name            |
++-----------------+
+| Accinelli, Luis |
++-----------------+
+1 row in set (0.00 sec)
+
+mysql>  #10
++---------+
+| mid     |
++---------+
+| 2409222 |
+| 2441992 |
+| 2482467 |
+| 2661135 |
+| 2683348 |
+| 2691115 |
+| 2709626 |
+| 2744406 |
+| 2842379 |
+| 2925107 |
+| 2936309 |
+| 2939248 |
+| 2983689 |
+| 3049205 |
+| 3075556 |
+| 3094700 |
+| 3161621 |
+| 3245473 |
+| 3370175 |
++---------+
+19 rows in set (0.00 sec)
+
+mysql>  #11
++-------------------------------------------+
+| title                                     |
++-------------------------------------------+
+| 5 pollas en peligro                       |
+| Adventures of Power                       |
+| Asalto en Tijuana                         |
+| Discriminación maldita                    |
+| East Side Story                           |
+| El carro de la muerte                     |
+| Escape sangriento                         |
+| Forgetting Sarah Marshall                 |
+| If... Dog... Rabbit                       |
+| La camioneta gris                         |
+| La reina de las bandas                    |
+| La venganza del rojo                      |
+| Los tres gallos                           |
+| Muerte en Tijuana                         |
+| Night of the Living Dead 3D: Re-Animation |
+| Ocean Without a Shore                     |
+| Prizzi's Honor                            |
+| Shinboru                                  |
+| The Heartbreak Kid                        |
++-------------------------------------------+
+19 rows in set (0.00 sec)
+
+mysql>  #12
++---------+---------+----------------------------------------------------+-----------------+-------------------------+--------+
+| pid     | mid     | title                                              | production_year | name                    | gender |
++---------+---------+----------------------------------------------------+-----------------+-------------------------+--------+
+| 1541707 | 2808759 | Herr Ober!                                         |            1992 | Pacino                  | m      |
+| 1541708 | 2398252 | ...And Justice for All.                            |            1979 | Pacino, Al              | m      |
+| 1541708 | 2411433 | 88 Minutes                                         |            2007 | Pacino, Al              | m      |
+| 1541708 | 2459597 | America at the Movies                              |            1976 | Pacino, Al              | m      |
+| 1541708 | 2471557 | Ann-Margret: Från Valsjöbyn till Hollywood         |            2014 | Pacino, Al              | m      |
+| 1541708 | 2471558 | Ann-Margret: Från Valsjöbyn till Hollywood (I)     |            2014 | Pacino, Al              | m      |
+| 1541708 | 2474344 | Any Given Sunday                                   |            1999 | Pacino, Al              | m      |
+| 1541708 | 2490019 | Author! Author!                                    |            1982 | Pacino, Al              | m      |
+| 1541708 | 2504802 | Based on a True Story                              |            2005 | Pacino, Al              | m      |
+| 1541708 | 2535718 | Bobby Deerfield                                    |            1977 | Pacino, Al              | m      |
+| 1541708 | 2536460 | Boffo! Tinseltown's Bombs and Blockbusters         |            2006 | Pacino, Al              | m      |
+| 1541708 | 2565086 | Carlito's Way                                      |            1993 | Pacino, Al              | m      |
+| 1541708 | 2567879 | Casting By                                         |            2012 | Pacino, Al              | m      |
+| 1541708 | 2580942 | Chinese Coffee                                     |            2000 | Pacino, Al              | m      |
+| 1541708 | 2587312 | City Hall                                          |            1996 | Pacino, Al              | m      |
+| 1541708 | 2610437 | Cruising                                           |            1980 | Pacino, Al              | m      |
+| 1541708 | 2621175 | Danny Collins                                      |            2015 | Pacino, Al              | m      |
+| 1541708 | 2651267 | Dick Tracy                                         |            1990 | Pacino, Al              | m      |
+| 1541708 | 2664985 | Dog Day Afternoon                                  |            1975 | Pacino, Al              | m      |
+| 1541708 | 2668895 | Donnie Brasco                                      |            1997 | Pacino, Al              | m      |
+| 1541708 | 2732305 | Filming a Love Story: Bobby Deerfield              |            1977 | Pacino, Al              | m      |
+| 1541708 | 2747817 | Frankie and Johnny                                 |            1991 | Pacino, Al              | m      |
+| 1541708 | 2768978 | Gigli                                              |            2003 | Pacino, Al              | m      |
+| 1541708 | 2772586 | Glengarry Glen Ross                                |            1992 | Pacino, Al              | m      |
+| 1541708 | 2802492 | Heat                                               |            1995 | Pacino, Al              | m      |
+| 1541708 | 2835549 | I Knew It Was You: Rediscovering John Cazale       |            2009 | Pacino, Al              | m      |
+| 1541708 | 2859528 | Insomnia                                           |            2002 | Pacino, Al              | m      |
+| 1541708 | 2870075 | Jack and Jill                                      |            2011 | Pacino, Al              | m      |
+| 1541708 | 2881381 | John G. Avildsen: King of the Underdogs            |            2016 | Pacino, Al              | m      |
+| 1541708 | 2882609 | Jonas in the Desert                                |            1994 | Pacino, Al              | m      |
+| 1541708 | 2975698 | Little Spain                                       |            2011 | Pacino, Al              | m      |
+| 1541708 | 2981150 | Looking for Richard                                |            1996 | Pacino, Al              | m      |
+| 1541708 | 2991630 | Lumet: Film Maker                                  |            1975 | Pacino, Al              | m      |
+| 1541708 | 2997385 | Madonna: Truth or Dare                             |            1991 | Pacino, Al              | m      |
+| 1541708 | 3005405 | Manglehorn                                         |            2014 | Pacino, Al              | m      |
+| 1541708 | 3007847 | Marco Polo, a Young Man in Love                    |            2019 | Pacino, Al              | m      |
+| 1541708 | 3016794 | Me, Natalie                                        |            1969 | Pacino, Al              | m      |
+| 1541708 | 3027369 | Midnight Movies: From the Margin to the Mainstream |            2005 | Pacino, Al              | m      |
+| 1541708 | 3032604 | Misconduct                                         |            2016 | Pacino, Al              | m      |
+| 1541708 | 3094712 | Ocean's Thirteen                                   |            2007 | Pacino, Al              | m      |
+| 1541708 | 3133100 | People I Know                                      |            2002 | Pacino, Al              | m      |
+| 1541708 | 3142924 | Pitch                                              |            1997 | Pacino, Al              | m      |
+| 1541708 | 3190833 | Retribution                                        |            NULL | Pacino, Al              | m      |
+| 1541708 | 3192545 | Revolution                                         |            1985 | Pacino, Al              | m      |
+| 1541708 | 3195081 | Righteous Kill                                     |            2008 | Pacino, Al              | m      |
+| 1541708 | 3210586 | S1m0ne                                             |            2002 | Pacino, Al              | m      |
+| 1541708 | 3214407 | Salomé                                             |            2013 | Pacino, Al              | m      |
+| 1541708 | 3222543 | Scarecrow                                          |            1973 | Pacino, Al              | m      |
+| 1541708 | 3222648 | Scarface                                           |            1983 | Pacino, Al              | m      |
+| 1541708 | 3223317 | Scent of a Woman                                   |            1992 | Pacino, Al              | m      |
+| 1541708 | 3227543 | Sea of Love                                        |            1989 | Pacino, Al              | m      |
+| 1541708 | 3235083 | Serpico                                            |            1973 | Pacino, Al              | m      |
+| 1541708 | 3281594 | Stand Up Guys                                      |            2012 | Pacino, Al              | m      |
+| 1541708 | 3350791 | The Devil's Advocate                               |            1997 | Pacino, Al              | m      |
+| 1541708 | 3365316 | The Godfather                                      |            1972 | Pacino, Al              | m      |
+| 1541708 | 3365335 | The Godfather: Behind the Scenes                   |            1971 | Pacino, Al              | m      |
+| 1541708 | 3365340 | The Godfather: Part II                             |            1974 | Pacino, Al              | m      |
+| 1541708 | 3365341 | The Godfather: Part III                            |            1990 | Pacino, Al              | m      |
+| 1541708 | 3373013 | The Humbling                                       |            2014 | Pacino, Al              | m      |
+| 1541708 | 3374811 | The Insider                                        |            1999 | Pacino, Al              | m      |
+| 1541708 | 3375603 | The Irishman                                       |            NULL | Pacino, Al              | m      |
+| 1541708 | 3384653 | The Local Stigmatic                                |            1990 | Pacino, Al              | m      |
+| 1541708 | 3388221 | The Making of 'Scent of a Woman'                   |            1992 | Pacino, Al              | m      |
+| 1541708 | 3388224 | The Making of 'Sea of Love'                        |            1989 | Pacino, Al              | m      |
+| 1541708 | 3391768 | The Merchant of Venice                             |            2004 | Pacino, Al              | m      |
+| 1541708 | 3401034 | The Panic in Needle Park                           |            1971 | Pacino, Al              | m      |
+| 1541708 | 3409531 | The Recruit                                        |            2003 | Pacino, Al              | m      |
+| 1541708 | 3420218 | The Son of No One                                  |            2011 | Pacino, Al              | m      |
+| 1541708 | 3428845 | The Trap                                           |            2017 | Pacino, Al              | m      |
+| 1541708 | 3475251 | Two Bits                                           |            1995 | Pacino, Al              | m      |
+| 1541708 | 3475548 | Two for the Money                                  |            2005 | Pacino, Al              | m      |
+| 1541708 | 3535010 | Wilde Salomé                                       |            2011 | Pacino, Al              | m      |
+| 1541710 | 2597496 | Company                                            |            2005 | Pacino, Eli             | m      |
+| 1541712 | 2924602 | La Bolognese                                       |            1975 | Pacino, Paolo           | m      |
+| 1541712 | 2931374 | La linea del fiume                                 |            1976 | Pacino, Paolo           | m      |
+| 1541712 | 3133588 | Per le antiche scale                               |            1975 | Pacino, Paolo           | m      |
+| 1541712 | 3151439 | Porca società                                      |            1978 | Pacino, Paolo           | m      |
+| 1541712 | 3235807 | Sette note in nero                                 |            1977 | Pacino, Paolo           | m      |
+| 1541713 | 2537141 | Bolivar: Path to Glory                             |            2005 | Pacino, Sal             | m      |
+| 1541713 | 2561405 | Can't Be Heaven                                    |            2000 | Pacino, Sal             | m      |
+| 1541713 | 2818620 | Holy Hollywood                                     |            1999 | Pacino, Sal             | m      |
+| 1541713 | 2837493 | I soldati                                          |            2002 | Pacino, Sal             | m      |
+| 1541713 | 3080642 | No Rules                                           |            2005 | Pacino, Sal             | m      |
+| 1541713 | 3553491 | Younger and Younger                                |            1993 | Pacino, Sal             | m      |
+| 1541714 | 3193180 | Rhyme and Punishment                               |            2011 | Pacino, Un              | m      |
+| 1541717 | 3262090 | Smettere di fumare fumando                         |            2012 | Pacinotti, Gian Alfonso | m      |
+| 3133994 | 2867398 | It's Great to Be Alive                             |            1933 | Pacino, Helen           | f      |
+| 3133995 | 2411641 | 9 to 5: Days in Porn                               |            2008 | Pacino, Isabella        | f      |
+| 3133996 | 2825507 | House of Mirrors                                   |            2014 | Pacino, Josette         | f      |
+| 3133997 | 3399707 | The Original Action Hero                           |            2017 | Pacino, Julie           | f      |
+| 3133998 | 2424298 | A Moment of Confusion                              |            1998 | Pacino, Kara            | f      |
+| 3134000 | 2739733 | Flowers in the Snow-FTP                            |            2015 | Pacino, Katherine Kovin | f      |
+| 3134001 | 3080642 | No Rules                                           |            2005 | Pacino, Kathy           | f      |
+| 3134002 | 3417683 | The Shiver Shack                                   |            2000 | Pacino, Roberta         | f      |
+| 3134004 | 3262090 | Smettere di fumare fumando                         |            2012 | Pacinotti, Annalisa     | f      |
+| 3134005 | 2723687 | Fantasma d'amore                                   |            1981 | Pacinotti, Liliana      | f      |
+| 3134005 | 3497240 | Valeria dentro e fuori                             |            1972 | Pacinotti, Liliana      | f      |
++---------+---------+----------------------------------------------------+-----------------+-------------------------+--------+
+97 rows in set (0.33 sec)
+
+mysql>  #13
++--------------------+
+| name               |
++--------------------+
+| Le Prince, Adolphe |
+| Le Prince, Adolphe |
+| Whitley, Joseph    |
+| Hartley, Annie     |
+| Whitley, Sarah     |
++--------------------+
+5 rows in set (5.16 sec)
+
+mysql>  #14
++-------------------------------------------------+
+| title                                           |
++-------------------------------------------------+
+| A Bond for Life: How James Bond Changed My Life |
+| Adams æbler                                     |
+| Bleeder                                         |
+| Blinkende lygter                                |
+| Blomsterfangen                                  |
+| Café Hector                                     |
+| Casino Royale                                   |
+| Clash of the Titans                             |
+| Coco Chanel & Igor Stravinsky                   |
+| De grønne slagtere                              |
+| Die Tür                                         |
+| Doctor Strange                                  |
+| Dykkerdrengen                                   |
+| Efter brylluppet                                |
+| Elsker dig for evigt                            |
+| En kongelig affære                              |
+| En kort en lang                                 |
+| Exit                                            |
+| Flammen & Citronen                              |
+| I Am Dina                                       |
+| Jagten                                          |
+| King Arthur                                     |
+| Michael Kohlhaas                                |
+| Monas verden                                    |
+| Move On                                         |
+| Muumi ja punainen pyrstötähti                   |
+| Mænd & høns                                     |
+| Nattens engel                                   |
+| Nu                                              |
+| Prag                                            |
+| Pusher                                          |
+| Pusher II                                       |
+| Rogue One: A Star Wars Story                    |
+| The Necessary Death of Charlie Countryman       |
+| The Salvation                                   |
+| The Three Musketeers                            |
+| Tom Merritt                                     |
+| Torremolinos 73                                 |
+| Valhalla Rising                                 |
+| Vildspor                                        |
+| Wilbur Wants to Kill Himself                    |
++-------------------------------------------------+
+41 rows in set (0.33 sec)
