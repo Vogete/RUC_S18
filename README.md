@@ -28,6 +28,7 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
 
 - [February 02](/RAWDATA/2018-feb-02)
   - [DBMS intro.pdf](/RAWDATA/2018-feb-02/DBMS_intro.pdf)
+  - [SQL_part1.pdf](/RAWDATA/2018-feb-02/SQL_part1.pdf)
   - Intro to the course
   - Database theory and excercises
 
