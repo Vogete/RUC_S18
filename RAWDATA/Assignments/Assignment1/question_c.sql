@@ -1,3 +1,5 @@
+-- Nested query
+
 SELECT movie.title FROM `movie`
 WHERE movie.id IN (
     -- search all the entries Mads Mikkelsen is present in
@@ -18,4 +20,22 @@ movie.kind_id = (
     WHERE
     kind_type.kind = 'video game'
 )
+;
+
+
+-- with INNER JOIN
+
+SELECT movie.title from `movie`
+INNER JOIN `casting`
+    ON movie.id = casting.movie_id
+INNER JOIN `person`
+    ON person.id = casting.person_id
+INNER JOIN `kind_type`
+    ON movie.kind_id = kind_type.id
+WHERE
+    person.name LIKE '%Mads%'
+    AND
+    person.name LIKE '%Mikkelsen%'
+    AND
+    kind_type.kind = 'video game'
 ;

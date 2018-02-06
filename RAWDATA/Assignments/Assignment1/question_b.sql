@@ -1,3 +1,5 @@
+-- Nested queries
+
 SELECT COUNT(movie.id) AS 'Count(*)' FROM `movie`
 WHERE
     movie.production_year = 2004
@@ -7,4 +9,16 @@ WHERE
         WHERE
         kind_type.kind = 'movie'
     )
+;
+
+
+-- With INNER JOIN
+
+SELECT COUNT(movie.id) AS 'Count(*)' FROM `movie`
+INNER JOIN `kind_type`
+    ON kind_type.id = movie.kind_id
+WHERE
+    movie.production_year = 2004
+    AND
+    kind_type.kind = 'movie'
 ;
