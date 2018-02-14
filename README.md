@@ -38,6 +38,9 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
 - [February 06](/RAWDATA/2018-feb-06)
   - [SQL_part1.pdf](/RAWDATA/2018-feb-06/SQL_part1.pdf)
   - [SQL_part2.pdf](/RAWDATA/2018-feb-06/SQL_part2.pdf)
+- [February 13](/RAWDATA/2018-feb-13)
+  - [SQL_part2.pdf](/RAWDATA/2018-feb-06/SQL_part2.pdf)
+  - [RM_intro.pdf](/RAWDATA/2018-feb-06/RM_intro.pdf)
 
 ### Assignments
 
@@ -51,7 +54,12 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
 
 ## Robotics
 
-- TBD
+### Lectures
+
+- [February 14](/Robotics/2018-feb-14)
+  - Intro to the course
+  - Theory
+  - [Exercises](/Robotics/2018-feb-14/BSIM_exercise.pdf)
 
 ---
 
