@@ -12,9 +12,9 @@
 
 ## Exercise
 
-[Exercise for next time:](/BSIM_exercise.pdf)
+[Exercise for next time:](BSIM_exercise.pdf)
 
-In [BSim](http://www.behaviorbasedprogramming.net/), design a simulation according to the diagram in the. Choose behaviors and parameters to make
+In [BSim](http://www.behaviorbasedprogramming.net/), design a simulation according to the diagram in the PDF. Choose behaviors and parameters to make
 the robot (circle) find and move to the light source and stop there.
 
 *Hint: start simple and refine the simulation gradually.*
