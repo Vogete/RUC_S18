@@ -20,6 +20,10 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - Connection: `islb.ruc.dk`, port `3306` (`islb.ruc.dk:3306`)
   - Username: `guest`
   - Password: `guest`
+- wt-220.ruc.dk MySQL Database:
+  - Connection: `wt-220.ruc.dk`, port `3306` (`wt-220.ruc.dk:3306`)
+  - Username: _your RUC username_
+  - Password: _your given password (check your RUC E-mail)_
 
 ---
 
@@ -28,7 +32,7 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
 - [RAWDATA on Moodle](https://moodle.ruc.dk/course/view.php?id=9722)
 - [RAWDATA intro](/RAWDATA/2018-feb-02/RAWDATA_intro_spring_2018.pdf)
 
-### Lectures
+### RAWDATA Lectures
 
 - [February 02](/RAWDATA/2018-feb-02)
   - [DBMS intro.pdf](/RAWDATA/2018-feb-02/DBMS_intro.pdf)
@@ -40,21 +44,29 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - [SQL_part2.pdf](/RAWDATA/2018-feb-06/SQL_part2.pdf)
 - [February 13](/RAWDATA/2018-feb-13)
   - [SQL_part2.pdf](/RAWDATA/2018-feb-06/SQL_part2.pdf)
-  - [RM_intro.pdf](/RAWDATA/2018-feb-06/RM_intro.pdf)
+  - [RM_intro.pdf](/RAWDATA/2018-feb-13/RM_intro.pdf)
+- [February 20](/RAWDATA/2018-feb-20)
+  - [SQL_part3.pdf](/RAWDATA/2018-feb-20/SQL_part3.pdf)
+  - [normalization_part1.pdf](/RAWDATA/2018-feb-20/normalization_part1.pdf)
 
-### Assignments
+### RAWDATA Assignments
 
 - [1st Assignment](/RAWDATA/2018-feb-06/RAWDATA_2018-Assignment_1.pdf)
   - Deadline: **Tuesday, 13 February 2018, 11:55 PM**
   - Queries using the `imdb_movie` database on `islb.ruc.dk:3306`
   - Hand-in on Moodle
   - Group hand-in is allowed
+- [2nd Assignment](/RAWDATA/Assignments/Assignment2/RAWDATA_2018_-_Assignment_2.pdf)
+  - Deadline: **Thursday, 22 February 2018, 11:55 PM**
+  - Queries using the `imdb_movie` and your own database on `wt-220.ruc.dk:3306`
+  - Hand-in on Moodle
+  - Group hand-in
 
 ---
 
 ## Robotics
 
-### Lectures
+### Robotics Lectures
 
 - [February 14](/Robotics/2018-feb-14)
   - Intro to the course
