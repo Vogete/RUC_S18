@@ -45,6 +45,8 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
 - [February 13](/RAWDATA/2018-feb-13)
   - [SQL_part2.pdf](/RAWDATA/2018-feb-06/SQL_part2.pdf)
   - [RM_intro.pdf](/RAWDATA/2018-feb-13/RM_intro.pdf)
+- [February 15](/RAWDATA/2018-feb-15)
+  - [ER-model.pdf](/RAWDATA/2018-feb-15/ER-model.pdf)
 - [February 20](/RAWDATA/2018-feb-20)
   - [SQL_part3.pdf](/RAWDATA/2018-feb-20/SQL_part3.pdf)
   - [normalization_part1.pdf](/RAWDATA/2018-feb-20/normalization_part1.pdf)
