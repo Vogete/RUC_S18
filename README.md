@@ -74,6 +74,9 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - Intro to the course
   - Theory
   - [Exercises](/Robotics/2018-feb-14/BSIM_exercise.pdf)
+- [February 21](/Robotics/2018-feb-21)
+  - [Slides](/Robotics/2018-feb-21/RobotSlides-Day2.pdf)
+  - [Exercises](/Robotics/2018-feb-21/RobotsExercisesDay2.pdf)
 
 ---
 
