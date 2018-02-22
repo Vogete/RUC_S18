@@ -50,6 +50,7 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
 - [February 20](/RAWDATA/2018-feb-20)
   - [SQL_part3.pdf](/RAWDATA/2018-feb-20/SQL_part3.pdf)
   - [normalization_part1.pdf](/RAWDATA/2018-feb-20/normalization_part1.pdf)
+- [February 22](/RAWDATA/2018-feb-22)
 
 ### RAWDATA Assignments
 
@@ -64,6 +65,26 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - Hand-in on Moodle
   - Group hand-in
 
+### RAWDATA Project Portfolio
+
+- The goal of the RAWDATA Project Portfolio is to build a functioning, simplifed version of [Stack Overflow](https://stackoverflow.com/).
+- [Info about the project portfolio](/RAWDATA/Project_Portfolio/Subproject_1/RAWDATA_Portfolio_Project_1_intro.pdf)
+- [RAWDATA Portfolio Project on Moodle](https://moodle.ruc.dk/course/view.php?id=9754)
+
+#### [Subproject 1](/RAWDATA/Project_Portfolio/Subproject_1)
+
+- Deadline: **Monday, 5 March 2018**
+- [General info](/RAWDATA/Project_Portfolio/Subproject_1/RAWDATA_Portfolio_Project_1_intro.pdf)
+- [Requirements](/RAWDATA/Project_Portfolio/Subproject_1/RAWDATA_F2018-Portfolio_subproject_1_requiments.pdf)
+- Goal: to provide a database for the SOVA application and to prepare the key functionality of the application.
+  - Two independent data models:
+    - a QA-data model
+      - All data from the source database ([stackoverflow_sample_universal.zip](/RAWDATA/Project_Portfolio/Subproject_1/stackoverflow_sample_universal.zip))
+    - a history and marking model
+  - Provide support for:
+    - browsing and search for answers
+    - personal activity history and marking of special interest posts.
+
 ---
 
 ## Robotics
@@ -77,9 +98,3 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
 - [February 21](/Robotics/2018-feb-21)
   - [Slides](/Robotics/2018-feb-21/RobotSlides-Day2.pdf)
   - [Exercises](/Robotics/2018-feb-21/RobotsExercisesDay2.pdf)
-
----
-
-## Project Portfolio
-
-- TBD
