@@ -8,10 +8,11 @@ BEGIN
         FROM imdb_movie.casting c, imdb_movie.person p, imdb_movie.movie m
         WHERE
             (
-            c.person_id = p.id
-            AND c.movie_id = m.id
-            AND m.kind_id = 1
-            AND c.role_type_id = 1
+                c.person_id = p.id
+                AND c.movie_id = m.id
+                AND m.kind_id = 1
+                AND
+                (c.role_type_id = 1 OR c.role_type_id = 2)
             )
             AND
             p.name like actor_name;
