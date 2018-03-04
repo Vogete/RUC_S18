@@ -89,6 +89,9 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
 
 ## Robotics
 
+- [Robotics on Moodle](https://moodle.ruc.dk/course/view.php?id=9760)
+- [LeJOS EV3 API documentation](http://www.lejos.org/ev3/docs/)
+
 ### Robotics Lectures
 
 - [February 14](/Robotics/2018-feb-14)
@@ -98,3 +101,13 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
 - [February 21](/Robotics/2018-feb-21)
   - [Slides](/Robotics/2018-feb-21/RobotSlides-Day2.pdf)
   - [Exercises](/Robotics/2018-feb-21/RobotsExercisesDay2.pdf)
+- [February 28](/Robotics/2018-feb-28)
+  - [Slides](/Robotics/2018-feb-28/Slides_day3.pdf)
+  - [1st assignment and exercises](/Robotics/2018-feb-28/Assignment-1+exercise.pdf)
+
+### Robotics Assignments
+
+- [1st assignment](/Robotics/2018-feb-28/Assignment-1+exercise.pdf)
+  - Deadline: **Wednesday, 14 March 2018, 8:15 AM**
+  - Hand-in on Moodle
+  - Individual report hand-in. The robot can be a group work, but the report should be individual
