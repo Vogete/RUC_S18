@@ -41,7 +41,7 @@ tmp/
 *.swp
 *~.nib
 local.properties
-.settings/
+# .settings/  # removed because of lejos
 .loadpath
 .recommenders
 
