@@ -66,7 +66,12 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - Deadline: **Thursday, 22 February 2018, 11:55 PM**
   - Queries using the `imdb_movie` and your own database on `wt-220.ruc.dk:3306`
   - Hand-in on Moodle
-  - Group hand-in
+  - Group hand-in is allowed
+- [3rd Assignment]()
+  - Deadline: **Monday, 12 March 2018, 11:55 PM**
+  - Network Programming
+  - Hand-in on Moodle
+  - Group hand-in is allowed
 
 ### RAWDATA Project Portfolio
 
