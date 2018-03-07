@@ -112,6 +112,9 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
 - [February 28](/Robotics/2018-feb-28)
   - [Slides](/Robotics/2018-feb-28/Slides_day3.pdf)
   - [1st assignment and exercises](/Robotics/2018-feb-28/Assignment-1+exercise.pdf)
+- [March 07](/Robotics/2018-mar-07)
+  - [Java Threads](/Robotics/2018-mar-07/java-threads-tutorial.pdf)
+  - [High Level Sensors](/Robotics/2018-mar-07/HighLevelSensors.pdf)
 
 ### Robotics Assignments
 
