@@ -54,6 +54,11 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
 - [March 06](/RAWDATA/2018-mar-06)
   - [lecture1-introduction.pdf](/RAWDATA/2018-mar-06/lecture1-introduction.pdf)
   - [exercises.pdf](/RAWDATA/2018-mar-06/exercises.pdf)
+- [March 08](/RAWDATA/2018-mar-08)
+  - [lecture2-networks.pdf](/RAWDATA/2018-mar-08/lecture2-networks.pdf)
+- [March 13](/RAWDATA/2018-mar-13)
+  - [lecture3-adv.pdf](/RAWDATA/2018-mar-13/lecture3-adv.pdf)
+  - [exercise2.3.pdf](/RAWDATA/2018-mar-13/exercise2.3.pdf)
 
 ### RAWDATA Assignments
 
@@ -67,7 +72,7 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - Queries using the `imdb_movie` and your own database on `wt-220.ruc.dk:3306`
   - Hand-in on Moodle
   - Group hand-in is allowed
-- [3rd Assignment]()
+- [3rd Assignment](/RAWDATA/Assignments/Assignment3/RAWDATA-Assignment-3.pdf)
   - Deadline: **Monday, 12 March 2018, 11:55 PM**
   - Network Programming
   - Hand-in on Moodle
