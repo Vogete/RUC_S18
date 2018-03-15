@@ -120,6 +120,10 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
 - [March 07](/Robotics/2018-mar-07)
   - [Java Threads](/Robotics/2018-mar-07/java-threads-tutorial.pdf)
   - [High Level Sensors](/Robotics/2018-mar-07/HighLevelSensors.pdf)
+- [March 14](/Robotics/2018-mar-14)
+  - [Slides](/Robotics/2018-mar-14/Behaviours.pdf)
+  - [Behavior Examples And MotorSync](/Robotics/2018-mar-14/BehaviorExamplesAndMotorSync.pdf)
+  - [BehaviourProgrLeJOS-Tutorial.pdf](/Robotics/2018-mar-14/BehaviourProgrLeJOS-Tutorial.pdf)
 
 ### Robotics Assignments
 
