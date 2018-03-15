@@ -59,6 +59,8 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
 - [March 13](/RAWDATA/2018-mar-13)
   - [lecture3-adv.pdf](/RAWDATA/2018-mar-13/lecture3-adv.pdf)
   - [exercise2.3.pdf](/RAWDATA/2018-mar-13/exercise2.3.pdf)
+- [March 15](/RAWDATA/2018-mar-15)
+  - [lecture4-linq_ado.pdf](/RAWDATA/2018-mar-15/lecture4-linq_ado.pdf)
 
 ### RAWDATA Assignments
 
@@ -75,8 +77,19 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
 - [3rd Assignment](/RAWDATA/Assignments/Assignment3/RAWDATA-Assignment-3.pdf)
   - Deadline: **Monday, 12 March 2018, 11:55 PM**
   - Network Programming
-  - Hand-in on Moodle
+  - Fork [this GitHub repo](https://github.com/bulskov/RAWDATA2018F_Assignment3TestSuite), and complete the exercise
+  - Hand-in on Moodle and GitHub
   - Group hand-in is allowed
+- [4th Assignment](/RAWDATA/Assignments/Assignment4/)
+  - Deadline: **Monday, 21 March 2018, 11:55 PM**
+  - Assignment 4 is separated into 2 parts, but both parts should be handed in together!
+  - Hand-in on Moodle and GitHub
+  - Group hand-in is allowed
+  - [Part 1](/RAWDATA/Assignments/Assignment4/RAWDATA_2018-Assignment_4_part_I.pdf)
+    - Data Layer with Entity Framework Core based on the Northwind database
+    - Fork [this GitHub repo](https://github.com/bulskov/RAWDATA2018F_Assignment4TestSuite), and complete the exercise
+  - Part 2
+    - TBA
 
 ### RAWDATA Project Portfolio
 
