@@ -61,6 +61,11 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - [exercise2.3.pdf](/RAWDATA/2018-mar-13/exercise2.3.pdf)
 - [March 15](/RAWDATA/2018-mar-15)
   - [lecture4-linq_ado.pdf](/RAWDATA/2018-mar-15/lecture4-linq_ado.pdf)
+- [March 20](/RAWDATA/2018-mar-20)
+  - [lecture5-http_asp.pdf](/RAWDATA/2018-mar-20/lecture5-http_asp.pdf)
+  - [ASP.NET_MVC_Succinctly.pdf](/RAWDATA/2018-mar-20/ASP.NET_MVC_Succinctly.pdf)
+  - [HTTP_Succinctly.pdf](/RAWDATA/2018-mar-20/HTTP_Succinctly.pdf)
+  - [Software_Design_Patterns.pdf](/RAWDATA/2018-mar-20/Software_Design_Patterns.pdf)
 
 ### RAWDATA Assignments
 
@@ -88,8 +93,9 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - [Part 1](/RAWDATA/Assignments/Assignment4/RAWDATA_2018-Assignment_4_part_I.pdf)
     - Data Layer with Entity Framework Core based on the Northwind database
     - Fork [this GitHub repo](https://github.com/bulskov/RAWDATA2018F_Assignment4TestSuite), and complete the exercise
-  - Part 2
-    - TBA
+  - [Part 2](/RAWDATA/Assignments/Assignment4/RAWDATA_2018-Assignment_4.pdf)
+    - Create a web service for the Part 1 of this exercise.
+    - The unit tests can be fount on [GitHub](https://github.com/bulskov/RAWDATA2018F_Assignment4Part2TestSuite)
 
 ### RAWDATA Project Portfolio
 
