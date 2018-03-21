@@ -143,6 +143,10 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - [Slides](/Robotics/2018-mar-14/Behaviours.pdf)
   - [Behavior Examples And MotorSync](/Robotics/2018-mar-14/BehaviorExamplesAndMotorSync.pdf)
   - [BehaviourProgrLeJOS-Tutorial.pdf](/Robotics/2018-mar-14/BehaviourProgrLeJOS-Tutorial.pdf)
+- [March 21](/Robotics/2018-mar-21)
+  - [Slides](/Robotics/2018-mar-21/WifiBluetooth.pdf)
+  - [Notes](/Robotics/2018-mar-21/NoteWifiBluetooth.pdf)
+  - [BT Exercises](/Robotics/2018-mar-21/BluetoothExercise.pdf)
 
 ### Robotics Assignments
 
