@@ -66,6 +66,8 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - [ASP.NET_MVC_Succinctly.pdf](/RAWDATA/2018-mar-20/ASP.NET_MVC_Succinctly.pdf)
   - [HTTP_Succinctly.pdf](/RAWDATA/2018-mar-20/HTTP_Succinctly.pdf)
   - [Software_Design_Patterns.pdf](/RAWDATA/2018-mar-20/Software_Design_Patterns.pdf)
+- [March 22](/RAWDATA/2018-mar-22)
+  - [lecture6-web_services.pdf](/RAWDATA/2018-mar-22/lecture6-web_services.pdf)
 
 ### RAWDATA Assignments
 
@@ -116,6 +118,11 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - Provide support for:
     - browsing and search for answers
     - personal activity history and marking of special interest posts.
+
+#### [Subproject 2](/RAWDATA/Project_Portfolio/Subproject_2)
+
+- Deadline: **Monday, 9 April 2018, 11:55 PM**
+- [Requirements](/RAWDATA/Project_Portfolio/Subproject_2/RAWDATA_F2018-Portfolio-subproject_2_requirements.pdf)
 
 ---
 
