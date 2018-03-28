@@ -154,6 +154,8 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - [Slides](/Robotics/2018-mar-21/WifiBluetooth.pdf)
   - [Notes](/Robotics/2018-mar-21/NoteWifiBluetooth.pdf)
   - [BT Exercises](/Robotics/2018-mar-21/BluetoothExercise.pdf)
+- [March 28](/Robotics/2018-mar-28)
+  - [Slides](/Robotics/2018-mar-28/lect5.pdf)
 
 ### Robotics Assignments
 
