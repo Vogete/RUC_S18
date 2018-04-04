@@ -156,6 +156,11 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - [BT Exercises](/Robotics/2018-mar-21/BluetoothExercise.pdf)
 - [March 28](/Robotics/2018-mar-28)
   - [Slides](/Robotics/2018-mar-28/lect5.pdf)
+- [April 4](/Robotics/2018-apr-04)
+  - [Slides](/Robotics/2018-apr-04/RobotPerformanceApril2018.pdf)
+  - [MovementMatters_MOCO17.pdf](/Robotics/2018-apr-04/MovementMatters_MOCO17.pdf)
+  - [RobotScriptLanguage.pdf](/Robotics/2018-apr-04/RobotScriptLanguage.pdf)
+  - [Towards_Behavioral_Objects-A_Twofold_Approach_for_a_System_of_Notation_to_Design_and_Implement_Behaviors_in_Non-anthropomorphic_Robotic_Artifacts.pdf](/Robotics/2018-apr-04/Towards_Behavioral_Objects-A_Twofold_Approach_for_a_System_of_Notation_to_Design_and_Implement_Behaviors_in_Non-anthropomorphic_Robotic_Artifacts.pdf)
 
 ### Robotics Assignments
 

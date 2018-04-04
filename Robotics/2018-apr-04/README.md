@@ -1,0 +1,6 @@
+# Robotics
+
+- [Slides](RobotPerformanceApril2018.pdf)
+- [MovementMatters_MOCO17.pdf](MovementMatters_MOCO17.pdf)
+- [RobotScriptLanguage.pdf](RobotScriptLanguage.pdf)
+- [Towards_Behavioral_Objects-A_Twofold_Approach_for_a_System_of_Notation_to_Design_and_Implement_Behaviors_in_Non-anthropomorphic_Robotic_Artifacts.pdf](Towards_Behavioral_Objects-A_Twofold_Approach_for_a_System_of_Notation_to_Design_and_Implement_Behaviors_in_Non-anthropomorphic_Robotic_Artifacts.pdf)
