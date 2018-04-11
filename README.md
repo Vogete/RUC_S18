@@ -68,6 +68,9 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - [Software_Design_Patterns.pdf](/RAWDATA/2018-mar-20/Software_Design_Patterns.pdf)
 - [March 22](/RAWDATA/2018-mar-22)
   - [lecture6-web_services.pdf](/RAWDATA/2018-mar-22/lecture6-web_services.pdf)
+- [April 10](/RAWDATA/2018-apr-10)
+  - [indexing.pdf](/RAWDATA/2018-apr-10/indexing.pdf)
+  - [IR.pdf](/RAWDATA/2018-apr-10/IR.pdf)
 
 ### RAWDATA Assignments
 
@@ -98,6 +101,10 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - [Part 2](/RAWDATA/Assignments/Assignment4/RAWDATA_2018-Assignment_4.pdf)
     - Create a web service for the Part 1 of this exercise.
     - The unit tests can be fount on [GitHub](https://github.com/bulskov/RAWDATA2018F_Assignment4Part2TestSuite)
+- [5th Assignment](/RAWDATA/Assignments/Assignment5/RAWDATA_2018-Assignment_5.pdf)
+  - Deadline: **Monday, 16 March 2018, 4:00 PM**
+  - Group hand-in
+  - Hand-in on Moodle
 
 ### RAWDATA Project Portfolio
 
@@ -138,29 +145,32 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - Theory
   - [Exercises](/Robotics/2018-feb-14/BSIM_exercise.pdf)
 - [February 21](/Robotics/2018-feb-21)
-  - [Slides](/Robotics/2018-feb-21/RobotSlides-Day2.pdf)
+  - [Slides](/Robotics/2018-feb-21/RobotSlides-Day2.pdf) - Introduction
   - [Exercises](/Robotics/2018-feb-21/RobotsExercisesDay2.pdf)
 - [February 28](/Robotics/2018-feb-28)
-  - [Slides](/Robotics/2018-feb-28/Slides_day3.pdf)
+  - [Slides](/Robotics/2018-feb-28/Slides_day3.pdf) - Kinematics, Odometry and Navigation, Differential Drive
   - [1st assignment and exercises](/Robotics/2018-feb-28/Assignment-1+exercise.pdf)
 - [March 07](/Robotics/2018-mar-07)
   - [Java Threads](/Robotics/2018-mar-07/java-threads-tutorial.pdf)
   - [High Level Sensors](/Robotics/2018-mar-07/HighLevelSensors.pdf)
 - [March 14](/Robotics/2018-mar-14)
-  - [Slides](/Robotics/2018-mar-14/Behaviours.pdf)
+  - [Slides](/Robotics/2018-mar-14/Behaviours.pdf) - Behaviours
   - [Behavior Examples And MotorSync](/Robotics/2018-mar-14/BehaviorExamplesAndMotorSync.pdf)
   - [BehaviourProgrLeJOS-Tutorial.pdf](/Robotics/2018-mar-14/BehaviourProgrLeJOS-Tutorial.pdf)
 - [March 21](/Robotics/2018-mar-21)
-  - [Slides](/Robotics/2018-mar-21/WifiBluetooth.pdf)
+  - [Slides](/Robotics/2018-mar-21/WifiBluetooth.pdf) - Wifi, Bluetooth
   - [Notes](/Robotics/2018-mar-21/NoteWifiBluetooth.pdf)
   - [BT Exercises](/Robotics/2018-mar-21/BluetoothExercise.pdf)
 - [March 28](/Robotics/2018-mar-28)
-  - [Slides](/Robotics/2018-mar-28/lect5.pdf)
+  - [Slides](/Robotics/2018-mar-28/lect5.pdf) - Localization
 - [April 4](/Robotics/2018-apr-04)
-  - [Slides](/Robotics/2018-apr-04/RobotPerformanceApril2018.pdf)
+  - [Slides](/Robotics/2018-apr-04/RobotPerformanceApril2018.pdf) - Robot performance
   - [MovementMatters_MOCO17.pdf](/Robotics/2018-apr-04/MovementMatters_MOCO17.pdf)
   - [RobotScriptLanguage.pdf](/Robotics/2018-apr-04/RobotScriptLanguage.pdf)
   - [Towards_Behavioral_Objects-A_Twofold_Approach_for_a_System_of_Notation_to_Design_and_Implement_Behaviors_in_Non-anthropomorphic_Robotic_Artifacts.pdf](/Robotics/2018-apr-04/Towards_Behavioral_Objects-A_Twofold_Approach_for_a_System_of_Notation_to_Design_and_Implement_Behaviors_in_Non-anthropomorphic_Robotic_Artifacts.pdf)
+- [April 11](/Robotics/2018-apr-11)
+  - [Slides](/Robotics/2018-apr-11/ComputerVisionEtc.pdf) - Computer vision
+  - [NxtCam-v4-User-Guide.pdf](/Robotics/2018-apr-11/NxtCam-v4-User-Guide.pdf)
 
 ### Robotics Assignments
 
@@ -168,3 +178,7 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - Deadline: **Wednesday, 14 March 2018, 8:15 AM**
   - Hand-in on Moodle
   - Individual report hand-in. The robot can be a group work, but the report should be individual
+- [Miniproject](/Robotics/Assignments/Miniproject/RobotFinalAssignment.pdf)
+  - Deadline: **Tuesday, 1 May 2018**
+  - The program and the **robot** can be a **group hand-in**, but the **report** should be  **individual**!
+  - Report (individual) should be around 10-20 pages. (more is not a problem)
