@@ -71,6 +71,10 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
 - [April 10](/RAWDATA/2018-apr-10)
   - [indexing.pdf](/RAWDATA/2018-apr-10/indexing.pdf)
   - [IR.pdf](/RAWDATA/2018-apr-10/IR.pdf)
+- [April 12](/RAWDATA/2018-apr-12)
+  - [IR.pdf](/RAWDATA/2018-apr-10/IR.pdf)
+  - [Tag_Clouds_and_the_Case_for_Vernacular_Visualization.pdf](/RAWDATA/2018-apr-12/Tag_Clouds_and_the_Case_for_Vernacular_Visualization.pdf)
+  - [Tag_cloud-Wikipedia.pdf](/RAWDATA/2018-apr-12/Tag_cloud-Wikipedia.pdf)
 
 ### RAWDATA Assignments
 
@@ -105,6 +109,9 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - Deadline: **Monday, 16 March 2018, 4:00 PM**
   - Group hand-in
   - Hand-in on Moodle
+  - [IIR.pdf](/RAWDATA/Assignments/Assignment5/IIR.pdf) (Source for first 2 questions)
+  - Use the `words` table for most tasks
+  - Part-of-speech tags: [https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html](https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html)
 
 ### RAWDATA Project Portfolio
 
