@@ -75,6 +75,9 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - [IR.pdf](/RAWDATA/2018-apr-10/IR.pdf)
   - [Tag_Clouds_and_the_Case_for_Vernacular_Visualization.pdf](/RAWDATA/2018-apr-12/Tag_Clouds_and_the_Case_for_Vernacular_Visualization.pdf)
   - [Tag_cloud-Wikipedia.pdf](/RAWDATA/2018-apr-12/Tag_cloud-Wikipedia.pdf)
+- [April 17](/RAWDATA/2018-apr-17)
+  - [IR_part3.pdf](/RAWDATA/2018-apr-17/IR_part3.pdf)
+  - [Tag_Clouds_and_the_Case_for_Vernacular_Visualization.pdf](/RAWDATA/2018-apr-12/Tag_Clouds_and_the_Case_for_Vernacular_Visualization.pdf)
 
 ### RAWDATA Assignments
 
@@ -138,6 +141,11 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
 - Deadline: **Monday, 9 April 2018, 11:55 PM**
 - [Requirements](/RAWDATA/Project_Portfolio/Subproject_2/RAWDATA_F2018-Portfolio-subproject_2_requirements.pdf)
 
+#### [Subproject 3](/RAWDATA/Project_Portfolio/Subproject_3)
+
+- Deadline: **Wednesday 25 April 2018, 16:00**
+- [Requirements](/RAWDATA/Project_Portfolio/Subproject_3/RAWDATA_F2018-Portfolio-subproject_3_requirements.pdf)
+
 ---
 
 ## Robotics
@@ -189,3 +197,4 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - Deadline: **Tuesday, 1 May 2018**
   - The program and the **robot** can be a **group hand-in**, but the **report** should be  **individual**!
   - Report (individual) should be around 10-20 pages. (more is not a problem)
+  - Goal: cover most topics we've learned during the courses.
