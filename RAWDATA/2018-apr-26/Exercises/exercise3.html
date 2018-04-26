@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Exercise 3</title>
+    <style>
+        .inputContainer {
+            margin-bottom: 1em;
+        }
+    </style>
+</head>
+<body>
+    <div id="form">
+        <div class="inputContainer">
+            First Name
+            <input id="txtFirstName" type="text">
+        </div>
+        <div class="inputContainer">
+            Last Name
+            <input id="txtLastName" type="text">
+        </div>
+        <div class="inputContainer">
+            Phone
+            <input id="txtPhone" type="text">
+        </div>
+
+        <div class="inputContainer">
+            <button id="btnSave" onclick="btnSave()">Save in local storage</button>
+        </div>
+    </div>
+
+
+    <script>
+        var LSKey = "InputValues";
+        function btnSave() {
+            let obj = {
+                "FirstName": getValueFromField("txtFirstName"),
+                "LastName": getValueFromField("txtLastName"),
+                "Phone": getValueFromField("txtPhone"),
+            }
+            let objString = JSON.stringify(obj);
+            localStorage.setItem(LSKey, objString);
+        }
+
+        function getValueFromField(textfieldId) {
+            return document.getElementById(textfieldId).value;
+        }
+
+        function setValueForField(textfieldId, value) {
+            document.getElementById(textfieldId).value = value;
+        }
+
+        function populateFieldsFromLS() {
+            let objString = localStorage.getItem(LSKey);
+
+            if (objString == null || objString.length<=0) {
+                return;
+            }
+
+            let obj = JSON.parse(objString);
+            setValueForField("txtFirstName", obj["FirstName"]);
+            setValueForField("txtLastName", obj["LastName"]);
+            setValueForField("txtPhone", obj["Phone"]);
+        }
+
+        window.onload = populateFieldsFromLS();
+
+    </script>
+</body>
+</html>

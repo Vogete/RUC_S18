@@ -78,6 +78,9 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
 - [April 17](/RAWDATA/2018-apr-17)
   - [IR_part3.pdf](/RAWDATA/2018-apr-17/IR_part3.pdf)
   - [Tag_Clouds_and_the_Case_for_Vernacular_Visualization.pdf](/RAWDATA/2018-apr-12/Tag_Clouds_and_the_Case_for_Vernacular_Visualization.pdf)
+- [April 26](/RAWDATA/2018-apr-26)
+  - [javascript.pdf](/RAWDATA/2018-apr-26/lecture1-javascript.pdf)
+  - [exercises.pdf](/RAWDATA/2018-apr-26/exercises.pdf)
 
 ### RAWDATA Assignments
 
