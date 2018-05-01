@@ -81,6 +81,10 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
 - [April 26](/RAWDATA/2018-apr-26)
   - [javascript.pdf](/RAWDATA/2018-apr-26/lecture1-javascript.pdf)
   - [exercises.pdf](/RAWDATA/2018-apr-26/exercises.pdf)
+- [May 1](/RAWDATA/2018-may-26)
+  - [lecture2-knockout.js.pdf](/RAWDATA/2018-may-26/lecture2-knockout.js.pdf)
+  - [exercises.pdf](/RAWDATA/2018-may-26/exercises.pdf)
+
 
 ### RAWDATA Assignments
 

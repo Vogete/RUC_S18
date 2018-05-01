@@ -13,3 +13,4 @@
 - [require.js](http://requirejs.org/)
 - [jQuery](https://jquery.com/)
 - [Bower](https://bower.io/)
+- [https://github.com/bulskov/RAWDATA2018F_Livecode7](https://github.com/bulskov/RAWDATA2018F_Livecode7)
