@@ -4,15 +4,16 @@
    // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
    "version": "0.2.0",
    "configurations": [
+
         {
             "name": ".NET Core Launch (console)",
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/RAWDATA/2018-mar-06/Exercise1/Exercise1/bin/Debug/netcoreapp2.0/Exercise1.dll",
+            "program": "${workspaceFolder}/RAWDATA/2018-may-1/Excercise_4.2/Exercise4_2/bin/Debug/netcoreapp2.0/Exercise4_2.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/RAWDATA/2018-mar-06/Exercise1/Exercise1",
+            "cwd": "${workspaceFolder}/RAWDATA/2018-may-1/Excercise_4.2/Exercise4_2/",
             // For more information about the 'console' field, see https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md#console-terminal-window
             "console": "internalConsole",
             "stopAtEntry": false,

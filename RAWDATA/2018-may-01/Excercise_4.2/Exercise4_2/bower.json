@@ -1,0 +1,14 @@
+{
+  "name": "mypackage",
+  "private": true,
+  "dependencies": {
+    "requirejs": "2.3.5",
+    "text": "requirejs-text#2.0.15",
+    "knockout": "knockoutjs#v3.4.2",
+    "jQuery": "3.3.1",
+    "bootstrap": "v4.1.1"
+  },
+  "resolutions": {
+    "requirejs": "2.3.5"
+  }
+}
