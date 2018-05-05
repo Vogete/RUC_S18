@@ -1,5 +1,6 @@
 (function () {
-
+    console.log("test2");
+   
     require.config({
         baseUrl: 'js',
         paths: {

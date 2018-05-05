@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link href="css/site.css" rel="stylesheet" />
+</head>
+<body>
+    <h1>Hello from Knockout</h1>
+
+    <person></person>
+
+    <div><button data-bind="click: changeTemplate">Change Template</button></div>
+
+<div>
+        <div data-bind="foreach: names">
+            <div data-bind="template: { name: $parent.selectedTemplate}"></div>
+        </div>
+    </div>
+
+    <script type="text/html" id="tmp0">
+        <input data-bind="textInput: firstName" />
+        <input data-bind="textInput: lastName, visible: showLastName" />
+        <input type="checkbox" data-bind="checked: showLastName" />
+    </script>
+
+
+    <script type="text/html" id="tmp1">
+    <div class="person">
+        <div>Firstname: <span data-bind="text: firstName"></span></div>
+        <div>Lastname: <span data-bind="text: lastName"></span></div>
+        <div>Age: <span data-bind="text: age"></span></div>
+        <button data-bind="click: $parent.deleteName">Delete Me</button>
+    </div>
+
+</script>
+
+        <script type="text/html" id="tmp2">
+            <div class="person">
+                <div>Firstname: <span data-bind="text: firstName"></span></div>
+                <div>Lastname: <span data-bind="text: lastName"></span></div>
+                <div>Age: <span data-bind="text: age"></span></div>
+                <div>
+                    Pets:
+                    <ul data-bind="foreach: pets">
+                        <li data-bind="text: $data"></li>
+                    </ul>
+                </div>
+                <button data-bind="click: $parent.deleteName">Delete Me</button>
+            </div>
+        </script>
+
+        <script data-main="js/main.js" src="js/lib/requirejs/require.js"></script>
+</body>
+</html>
