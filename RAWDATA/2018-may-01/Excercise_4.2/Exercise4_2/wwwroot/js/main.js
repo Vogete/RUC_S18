@@ -1,5 +1,4 @@
 (function () {
-    console.log("test2");
    
     require.config({
         baseUrl: 'js',
@@ -7,6 +6,10 @@
             knockout: 'lib/knockout/dist/knockout',
             jquery: 'lib/jQuery/dist/jquery.min'
         }
+    });
+    
+    require([], function () {
+        console.log("hello require");
     });
 
     require(['knockout', 'my'], function (ko, vm) {
