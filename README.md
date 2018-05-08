@@ -89,6 +89,10 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
   - [exercises.pdf](/RAWDATA/2018-may-03/exercises.pdf)
   - [Knockoutjs_Succinctly.pdf](/RAWDATA/2018-may-03/Knockoutjs_Succinctly.pdf)
   - [jQuery_Succinctly.pdf](/RAWDATA/2018-may-03/jQuery_Succinctly.pdf)
+- [May 08](/RAWDATA/2018-may-08)
+  - [lecture4-responsive design.pdf](/RAWDATA/2018-may-08/lecture4-responsive design.pdf)
+  - [Twitter_Bootstrap_Succinctly.pdf](/RAWDATA/2018-may-08/Twitter_Bootstrap_Succinctly.pdf)
+  - [Twitter_Bootstrap3_Succinctly.pdf](/RAWDATA/2018-may-08/Twitter_Bootstrap3_Succinctly.pdf)
 
 ### RAWDATA Assignments
 
@@ -156,6 +160,12 @@ RUC 1st Semester (2018 Spring) information, useful links, teaching materials, ex
 
 - Deadline: **Wednesday 25 April 2018, 16:00**
 - [Requirements](/RAWDATA/Project_Portfolio/Subproject_3/RAWDATA_F2018-Portfolio-subproject_3_requirements.pdf)
+
+#### [Subproject 4](/RAWDATA/Project_Portfolio/Subproject_4)
+
+- Deadline: **Wednesday 30 May 2018, 12:00**
+- [Requirements](/RAWDATA/Project_Portfolio/Subproject_4/RAWDATA_Portfolio_Final_Report_(Subproject_4_plus_Reflective_Synopsis).pdf)
+- Contains the Reflective Synopsis as well!
 
 ---
 
